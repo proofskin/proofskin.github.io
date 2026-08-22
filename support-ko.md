@@ -1,4 +1,4 @@
-[English](/support) · [日本語](/support-ja) · [한국어](/support-ko) · [简体中文](/support-zh)
+[English](/support.md) · [日本語](/support-ja.md) · [한국어](/support-ko.md) · [简体中文](/support-zh.md)
 
 # Proof Skin — 지원
 

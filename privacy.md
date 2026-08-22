@@ -14,7 +14,8 @@ doesn't, and why.
   never backed up by us, and never leave your iPhone through Proof.
 - **Your measurements.** Every skin metric (redness, breakouts, texture,
   tone evenness), your Skin Score, your history, and your trends are
-  computed and stored locally.
+  computed and stored on your device. They are not uploaded anywhere.
+
 - **Your profile.** Anything you enter about yourself during setup stays
   on the device.
 
@@ -36,17 +37,16 @@ account, your photos, or any device identifier.
    (processing time and cost) to operate the service.
 
 2. **Product barcode lookup.** When you scan a product barcode, the barcode
-   is sent to look up the product's name, brand, and ingredients. If you
-   add a product the database doesn't know, the product details you entered
-   (name, brand, ingredient list — never anything about you) are added to a
-   shared catalog so the next person's scan finds it.
+   alone is sent to look up that product's name, brand, and ingredients.
+   Nothing else is sent, and nothing about your shelf is uploaded: products
+   you add or edit stay on your device. Proof has no way for users to write
+   to its product database.
 
 If you never conclude an experiment and never scan a barcode, Proof sends
 nothing at all.
 
 ## What we don't do
 
-- No advertising, and no ad SDKs.
 - No analytics or usage tracking of any kind.
 - No selling, sharing, or transferring of data to third parties for
   marketing.
@@ -64,7 +64,11 @@ Manage or cancel anytime in your Apple Account settings.
 Settings → "Delete everything" erases all scans, photos, measurements, and
 history from your device immediately and permanently. Because personal data
 only ever existed on your device, that single action is complete — there is
-nothing server-side to request deletion of. Anonymous catalog contributions
+nothing server-side to request deletion of.
+
+Deleting the Proof app itself also removes this data. It is included in
+your iPhone's own backups, so restoring a device or moving to a new iPhone
+keeps it, but deleting the app is permanent. Anonymous catalog contributions
 (product names and ingredients) contain no personal data.
 
 ## Children

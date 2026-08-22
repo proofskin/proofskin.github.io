@@ -1,4 +1,4 @@
-[English](/support) · [日本語](/support-ja) · [한국어](/support-ko) · [简体中文](/support-zh)
+[English](/support.md) · [日本語](/support-ja.md) · [한국어](/support-ko.md) · [简体中文](/support-zh.md)
 # Proof Skin — Support
 
 Questions, bugs, or feedback? Email **stoqn780@gmail.com** and I'll get back to you, usually within a couple of days.

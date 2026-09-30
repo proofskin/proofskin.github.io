@@ -2,7 +2,7 @@
 
 *Last updated: September 2026*
 
-Proof Skincare ("Proof") is built on a simple rule: your face and your skin
+Proof Skincare is built on a simple rule: your face and your skin
 data belong on your iPhone, not on our servers. This policy explains
 exactly what stays on your device, the small amount of anonymous data that
 doesn't, and why.

@@ -1,8 +1,8 @@
-# Proof Skin — Privacy Policy
+# Proof Skincare — Privacy Policy
 
 *Last updated: September 2026*
 
-Proof Skin ("Proof") is built on a simple rule: your face and your skin
+Proof Skincare ("Proof") is built on a simple rule: your face and your skin
 data belong on your iPhone, not on our servers. This policy explains
 exactly what stays on your device, the small amount of anonymous data that
 doesn't, and why.
@@ -155,4 +155,4 @@ also be reflected in the app's own disclosures.
 
 ## Contact
 
-Questions about privacy in Proof Skin: **stoqn780@gmail.com**
+Questions about privacy in Proof Skincare: **stoqn780@gmail.com**
